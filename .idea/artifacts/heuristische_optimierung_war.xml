@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="heuristische-optimierung:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="heuristische-optimierung-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="heuristische-optimierung:war exploded" />
+    </root>
+  </artifact>
+</component>
