@@ -6,7 +6,7 @@
 
     <groupId>at.ac.univie.ops2016</groupId>
     <artifactId>heuristische-optimierung</artifactId>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
