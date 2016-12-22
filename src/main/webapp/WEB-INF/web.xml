@@ -19,6 +19,6 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>nqueen</servlet-name>
-        <url-pattern>/nq-calc</url-pattern>
+        <url-pattern>/genetic-alg</url-pattern>
     </servlet-mapping>
 </web-app>
