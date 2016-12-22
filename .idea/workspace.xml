@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5b8ab8e7-949c-44a2-a0fb-991813fec911" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -855,7 +854,7 @@
       <updated>1482352098019</updated>
       <workItem from="1482352099336" duration="7581000" />
       <workItem from="1482362745535" duration="2040000" />
-      <workItem from="1482364809481" duration="1171000" />
+      <workItem from="1482364809481" duration="1217000" />
     </task>
     <task id="LOCAL-00001" summary="added Procfile and changed pakaging ttype in pom.xml">
       <created>1482363907497</created>
@@ -871,11 +870,18 @@
       <option name="project" value="LOCAL" />
       <updated>1482364909554</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update pom.xml to produce .war">
+      <created>1482366017538</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1482366017538</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10792000" />
+    <option name="totallyTimeSpent" value="10838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="245" y="30" width="1400" height="1000" extended-state="0" />
@@ -926,7 +932,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added Procfile and changed pakaging ttype in pom.xml" />
     <MESSAGE value="Test deploy on heroku: add webapp-runner to dependency, update procfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test deploy on heroku: add webapp-runner to dependency, update procfile" />
+    <MESSAGE value="update pom.xml to produce .war" />
+    <option name="LAST_COMMIT_MESSAGE" value="update pom.xml to produce .war" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
