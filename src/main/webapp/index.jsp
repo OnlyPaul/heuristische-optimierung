@@ -166,7 +166,7 @@
   <body>
   <div class="jumbotron" style="text-align: center;">
     <h1>Heuristische Optimierung</h1>
-    <p class="lead">Yay welcome to my page :D I know you are my teammate as the site is not yet published</p>
+    <p class="lead">Yay welcome to my page :D I know you are my teammate as the site is not yet released</p>
   </div>
   <div class="container" style="text-align: center;">
     $Let's go to the genetic algorithm page: <a href="genetic-alg">here</a>

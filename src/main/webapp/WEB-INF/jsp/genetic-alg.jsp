@@ -327,16 +327,18 @@
         </div>
 
         <div class="container">
-            <c:if test="${answer == null}">
-                <div class="alert alert-danger" role="alert">
-                    There is nothing calculated yet.
-                </div>
-            </c:if>
-            <c:if test="${answer != null}">
-                <div class="alert alert-success" role="alert">
-                        ${answer}
-                </div>
-            </c:if>
+            <c:choose>
+                <c:when test="${answer == null}">
+                    <div class="alert alert-danger" role="alert">
+                        There is nothing calculated yet.
+                    </div>
+                </c:when>
+                <c:otherwise>
+                    <div class="alert alert-success" role="alert">
+                            ${answer}
+                    </div>
+                </c:otherwise>
+            </c:choose>
         </div>
 
 
